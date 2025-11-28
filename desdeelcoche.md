@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 
+title: Desde el coche (1990)
 subtitle: 
 ---
-
-### Desde el coche (1990)
 
 
 >Ya casi no lo hago, pero me durante años me gustaba llevar una cámara en el asiento de al lado mientras conducía y hacer fotos en marcha, con ese encuadre que da el parabrisas, y con la incertidumbre de qué va a salir, y con la complicidad de una cámara que me gustaba mucho y que ahora casi no uso.
