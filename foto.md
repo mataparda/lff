@@ -89,7 +89,7 @@ En la década de 1980 escribí _“usar una cámara de juguete era un ejercicio 
 
 ![Fuerteventura](assets/img/portadafuerteventura.jpg) 
 
-#### Fuerteventura](https://mataparda.github.io/lff/fuerteventura) - 2016-
+#### [Fuerteventura](https://mataparda.github.io/lff/fuerteventura) - 2016-
 
 ---
 
