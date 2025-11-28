@@ -1,13 +1,11 @@
 ---
 layout: page
-title: 
+title: Corona roja 1996-El rey dormido 1998
 subtitle:
 ---
 
 
-### Corona roja 1996 / El rey dormido 1998
-
-**Corona roja* fue un proyecto colectivo en el que participé en 1996, fotografías sobre volcanes. En 1998 presenté algunas de esas imágenes en **El rey dormido**, otra propuesta colectiva, en este caso con el volcán Teide como sujeto. 
+**Corona roja** fue un proyecto colectivo en el que participé en 1996, fotografías sobre volcanes. En 1998 presenté algunas de esas imágenes en **El rey dormido**, otra propuesta colectiva, en este caso con el volcán Teide como sujeto. 
 En esas fotos usé una simple cámara Kodak Fiesta fabricada entre 1962 y 1966 en Rochester, U.S.A., y la película, Jessop de formato 127, fabricada en Croacia.
 
 ![Corona roja](/assets/img/coronaroja00fiesta.jpg)
@@ -18,7 +16,7 @@ En esas fotos usé una simple cámara Kodak Fiesta fabricada entre 1962 y 1966 e
 
 >Los guanches, aborígenes de origen norteafricano habitantes de Tenerife hasta la invasión de los europeos a partir del siglo XVI, veían al demonio con forma de un perro que vivía en el Teide, al que llamaban Echeide, que significa maligno, cruel o el infierno, según los cronistas: _por el fuego espantoso, ruido y temblor que solía hacer, por lo cual lo consideraban morada de los demonios_.
 
-> --Texto de 1996
+>> -Texto de 1996
 
 
 ---
