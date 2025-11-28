@@ -23,7 +23,7 @@ Selección:
 
 ![Desde el coche](/assets/img/ViajeCat.jpg)
 
-!Desde el coche](/assets/img/ViajeCons.jpg)
+![Desde el coche](/assets/img/ViajeCons.jpg)
 
 ![Desde el coche](/assets/img/Viajechac.jpg)
 
