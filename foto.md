@@ -76,3 +76,25 @@ En la década de 1980 escribí _“usar una cámara de juguete era un ejercicio 
 #### [Opuntia piscinas](https://mataparda.github.io/lff/opuntiapiscinas) - 2024
 
 ---
+
+---
+
+### Trabajos inacabados
+
+![La Guía Atgette](assets/img/portadalaguiaatgette.jpg) 
+
+#### [La Guía Atgette de Santa Cruz de Tenerife](https://mataparda.github.io/lff/laguiaatgette) - 2011-
+
+---
+
+![Fuerteventura](assets/img/portadafuerteventura.jpg) 
+
+#### [Opuntia piscinas](https://mataparda.github.io/lff/fuerteventura) - 2026-
+
+---
+
+![C822](assets/img/portadac822.jpg) 
+
+#### [C-822](https://mataparda.github.io/lff/c822) - 2018-
+
+---
