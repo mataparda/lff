@@ -10,7 +10,7 @@ Mi historia personal en el trabajo de la protección última del Malpaís de Gü
 
 ---
 
---> De una manifestación a un caso de estudio:
+#### De una manifestación a un caso de estudio:
 
 ![Manifestacion](/assets/img/070804manif24marzo.jpg)
 
