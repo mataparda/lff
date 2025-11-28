@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 
+title: Mi viaje con Ledru (1991)
 subtitle: 
 ---
 
-### Mi viaje con Ledru (1991)
 
 Este trabajo de 1991 me ha perseguido muchos años. Inicialmente partió de un encuentro con un texto de un viajero y científico francés ilustrado: JP Ledru, que en ruta hacia las tierras americanas hizo una escala forzada en Tenerife, por una tormenta que casi hunde su barco. En unos meses en la isla la recorrió y anotó sus observaciones, descubrió una isla, que siglos después intenté fotografiar siguiendo sus pasos. 
 Publicado como libro en 1991, hacia 2010 empecé a revisarlo, ya en desacuerdo con algunas de mis elecciones, y durante mucho más tiempo del que empleé en el primer proyecto, eliminando fotos y añadiendo otras, recortando los textos, comprendiendo mejor la isla, rehice una segunda versión hasta que no quedó nada del orioginal. El trabajo definitivo, inédito es Mi viaje con L (2022). 
