@@ -42,24 +42,22 @@ Selección:
 
 ---
 
-![fue](/assets/img/fueSUNP0039.jpg)
+![fue](/assets/img/fueSUNP0039.JPG)
+![fue](/assets/img/fueSUNP0111.JPG)
+![fue](/assets/img/fueSUNP0127.JPG)
+![fue](/assets/img/fueSUNP0147.JPG)
+![fue](/assets/img/fueSUNP0169.JPG)
 
-![fue](/assets/img/fueSUNP0039.jpg)
-![fue](/assets/img/fueSUNP0111.jpg)
-![fue](/assets/img/fueSUNP0127.jpg)
-![fue](/assets/img/fueSUNP0147.jpg)
-![fue](/assets/img/fueSUNP0169.jpg)
+![fue](/assets/img/fueSUNP0316.JPG)
+![fue](/assets/img/fueSUNP0359.JPG)
+![fue](/assets/img/fueSUNP0396.JPG)
+![fue](/assets/img/fueSUNP0428.JPG)
+![fue](/assets/img/fueSUNP0454.JPG)
 
-![fue](/assets/img/fueSUNP0316.jpg)
-![fue](/assets/img/fueSUNP0359.jpg)
-![fue](/assets/img/fueSUNP0396.jpg)
-![fue](/assets/img/fueSUNP0428.jpg)
-![fue](/assets/img/fueSUNP0454.jpg)
-
-![fue](/assets/img/fueSUNP0459.jpg)
-![fue](/assets/img/fueSUNP0503.jpg)
-![fue](/assets/img/fueSUNP0662.jpg)
-![fue](/assets/img/fueSUNP0821.jpg)
-![fue](/assets/img/fueSUNP0822.jpg)
+![fue](/assets/img/fueSUNP0459.JPG)
+![fue](/assets/img/fueSUNP0503.JPG)
+![fue](/assets/img/fueSUNP0662.JPG)
+![fue](/assets/img/fueSUNP0821.JPG)
+![fue](/assets/img/fueSUNP0822.JPG)
 
 ---
