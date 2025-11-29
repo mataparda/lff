@@ -16,7 +16,7 @@ navbar-links:
   Isla:
      - elmalpais: "elmalpais"
      - jardines: "https://jardinedu.github.io/cifpcm/inicio"
-  Blog: "/"
+#  Blog: "/"
   Mtp: "sobremtp"
 
 
