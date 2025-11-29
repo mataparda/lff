@@ -43,6 +43,8 @@ Selección:
 ---
 
 ![fue](/assets/img/fueSUNP0039.jpg)
+
+![fue](/assets/img/fueSUNP0039.jpg)
 ![fue](/assets/img/fueSUNP0111.jpg)
 ![fue](/assets/img/fueSUNP0127.jpg)
 ![fue](/assets/img/fueSUNP0147.jpg)
@@ -57,7 +59,7 @@ Selección:
 ![fue](/assets/img/fueSUNP0459.jpg)
 ![fue](/assets/img/fueSUNP0503.jpg)
 ![fue](/assets/img/fueSUNP0662.jpg)
+![fue](/assets/img/fueSUNP0821.jpg)
 ![fue](/assets/img/fueSUNP0822.jpg)
-![fue](/assets/img/fue2020-07-24-15-47-44-990.jpg)
 
 ---
