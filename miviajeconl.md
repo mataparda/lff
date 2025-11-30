@@ -67,6 +67,9 @@ Un atardecer, en Buenavista del Norte, encuentro un pequeño San Sebastián, met
 
 ---
 
+Selección:
+
+
 ![foto mi viaje con Ledru revisado](assets/img/mvclr2019000b.jpg)
 
 ![foto mi viaje con Ledru revisado](assets/img/mvclr2019000c.jpg)
