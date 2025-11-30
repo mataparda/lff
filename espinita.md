@@ -15,7 +15,7 @@ En cuanto a la técnica narrativa, intento que sea depurada y que a la vez cada 
 
 Esta historia surge, sin duda, influenciada por el descubrimiento personal de Krazy Kat de Herriman, y justo a su lado cosas como Kin-der-Kids de Feininger, Calvin y Hobbes o Mutts, aunque no son estas las únicas fuentes de Espinita
 
-De todas formas **espinita"" está pausado desde 2013, y todos los guiones, desarrollados o no, pendientes de una revisión profunda, en el sentido que explicaba **espín** en _El arte de podar_ :
+De todas formas **espinita** está pausado desde 2013, y todos los guiones, desarrollados o no, pendientes de una revisión profunda, en el sentido que explicaba **espín** en _El arte de podar_ :
 
 ![espinita cafe](assets/img/espinitaelartedepodar.jpg)
 
