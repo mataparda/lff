@@ -16,6 +16,11 @@ subtitle:
 > -- del blog [Wet Dreams](https://stahlfabrik.blogspot.com/2018/02/va-necronomicon-1-2-3-4-1984-1987.html)
 
 
+- --> Escuchar en YouTube - [Contra el mal](https://youtu.be/giT4u3XnB0o)
+
+- --> Escuchar en YouTube - [Las puertas del infierno](https://youtu.be/Il8-EtKeBsw)
+
+
 ---
 
 
