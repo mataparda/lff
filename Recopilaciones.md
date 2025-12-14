@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Recopilaciones
-subtitle: - - - 
+subtitle: 
 ---
-
 
 #### Necronomicon. 1987
   
