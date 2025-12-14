@@ -4,7 +4,7 @@ title: Recopilaciones
 subtitle: 
 ---
 
-#### Necronomicon. 1987
+#### Necronomicón 4. 1987
   
 ![Necronomicon](assets/img/audionecronomicon4.jpg)
 
