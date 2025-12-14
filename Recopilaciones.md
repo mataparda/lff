@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Recopilaciones
@@ -22,7 +21,7 @@ subtitle: - - -
 
 #### La Ola Interior. 2021
   
-![La Ola Interior](assets/img/laolainterior.jpg)
+![La Ola Interior](assets/img/audiolaolainterior.jpg)
 
 - Me llena la cachimba 01:21
 - La papa suave 01:44 
