@@ -9,6 +9,10 @@ subtitle: cambio de siglo
   
 ![mataparda - Vega - Regina](assets/img/audiomatapardavegaregina.jpg)
 
+En 2019 nos encontramos por azar Blanca Regina, Eduardo Vega y yo, delante de unos pocos instrumentos electrónicos, en la sede de la Asociación SOLAR de la Plaza Isla de la Madera. Sin pensar más pusimos una grabadora a funcionar y de ahí salieron cuatro piezas de pura impsovisación y diálogo sonoro. 
+
+---> Pieza 0204solarB01. [Escucharla en YouTube](https://youtu.be/5UNKkvsHT4Q)
+
 ---
 
 #### Banda sonora para un documental experimental inédito, 2025
