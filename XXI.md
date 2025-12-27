@@ -9,13 +9,15 @@ subtitle: cambio de siglo
   
 ![mataparda - Vega - Regina](assets/img/audiomatapardavegaregina.jpg)
 
-En 2019 nos encontramos por azar Blanca Regina, Eduardo Vega y yo, delante de unos pocos instrumentos electrónicos, en la sede de la Asociación SOLAR de la Plaza Isla de la Madera. Sin pensar más pusimos una grabadora a funcionar y de ahí salieron cuatro piezas de pura impsovisación y diálogo sonoro. 
+   En 2019 nos encontramos por azar Blanca Regina, Eduardo Vega y yo, delante de unos pocos instrumentos electrónicos, en la sede de la Asociación SOLAR de la Plaza Isla de la Madera. Sin pensar más pusimos una grabadora a funcionar y de ahí salieron cuatro piezas de pura impsovisación y diálogo sonoro. 
 
 ---> Pieza 0204solarB01. [Escucharla en YouTube](https://youtu.be/5UNKkvsHT4Q)
 
 ---
 
 #### Banda sonora para un documental experimental inédito, 2025
+
+   Bardel me propuso crear la banda sonora de un documental experimental corto. Va de territorio, suelo y sobreturismo.
 
 ![Banda sonora](assets/img/audiobandasonoradocumental.jpg)
 
@@ -27,12 +29,12 @@ En 2019 nos encontramos por azar Blanca Regina, Eduardo Vega y yo, delante de un
 
 ![Cartel Télex](assets/img/audioconciertotelex.jpg)
 
-En la década de 1980 estuve creando sonidos, grabando casettes, y no sé cómo entré en un circuito alternativo, donde se intercambiaban por igual música experimental y mail art, cartas y postales, descubrimientos y  colaboraciones. Después de crear un corpùs de casettes autoproducidos desmonté el estudio, dejé lo sonoro y he saltado 35 años, escapando al reinado de las DAW y  los conciertos con teclado midi y un portátil abierto delante para caer en un punto donde me declaro radicalmente a favor de la contraalgoritmia. He recuperado, justo donde la dejé, la experimentación con los sampleados y la construcción de sonidos como collage. ahora con instrumentos con nuevas posibilidades: una app de tratamiento de samples y un software libre basado en redes neuronales para hacerlo colisionar con mis propios temas antiguos.
+   En la década de 1980 estuve creando sonidos, grabando casettes, y no sé cómo entré en un circuito alternativo, donde se intercambiaban por igual música experimental y mail art, cartas y postales, descubrimientos y  colaboraciones. Después de crear un corpùs de casettes autoproducidos desmonté el estudio, dejé lo sonoro y he saltado 35 años, escapando al reinado de las DAW y  los conciertos con teclado midi y un portátil abierto delante para caer en un punto donde me declaro radicalmente a favor de la contraalgoritmia. He recuperado, justo donde la dejé, la experimentación con los sampleados y la construcción de sonidos como collage. ahora con instrumentos con nuevas posibilidades: una app de tratamiento de samples y un software libre basado en redes neuronales para hacerlo colisionar con mis propios temas antiguos.
 
 En estos 60 minutos (aprox.) de compartir ideas mi plan es el siguiente:
-- 10 o 15 minutos explorando la idea de la mesa de mezclas como instrumento (con algunos otros aparatos por los que pasan las señales) (ver nota sobre Nakamura).
+- 10 o 15 minutos explorando la idea de la mesa de mezclas como instrumento (con algunos otros aparatos por los que pasan las señales) (_a la manera de_ Nakamura).
   
-- Una pieza basada en sampleados de la película El fin del mundo 1977.
+- Una pieza basada en sampleados de la película de 1977 _El fin del mundo_.
   
 - Versiones.
 ---1- Coil (dos temas fusionados: _Ravenous_ y _Circles of mania_, del trabajo _Horse Rotorvator_ (1986).
