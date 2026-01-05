@@ -53,7 +53,10 @@ En estos 60 minutos (aprox.) de compartir ideas mi plan es el siguiente:
 
 - Una pieza ensamblada específicamente para Télex, titulada provisionalmente _Una noche_.
   
----> Escuchar el [Concierto en la Caseta del Telégrafo, agosto 2025](http://bit.ly/matapardatelex2025)
+---> Escuchar en YouTube: 
+- 0. [Improvisación](https://youtu.be/FTpznoUGe58)
+
+--> [Descarga de todas las piezas y materiales](https://mega.nz/folder/iJcxhDCB#p-otYoc_gZaCDoDUtXZgtw) 
 
 ![Set Télex](assets/img/audiosettelex.jpg)
 
