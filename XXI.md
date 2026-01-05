@@ -52,12 +52,13 @@ En estos 60 minutos (aprox.) de compartir ideas mi plan es el siguiente:
 ---_Torres cielo_
 
 - Una pieza ensamblada específicamente para Télex, titulada provisionalmente _Una noche_.
-  
+
+:::- - - - - - 
 ---> Escuchar en YouTube: 
 - 0. [Improvisación](https://youtu.be/FTpznoUGe58)
-
+:::- - - - - - 
 --> [Descarga de todas las piezas y materiales](https://mega.nz/folder/iJcxhDCB#p-otYoc_gZaCDoDUtXZgtw) 
-
+:::- - - - - - 
 ![Set Télex](assets/img/audiosettelex.jpg)
 
 ---
