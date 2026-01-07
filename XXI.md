@@ -56,7 +56,7 @@ En estos 60 minutos (aprox.) de compartir ideas mi plan es el siguiente:
 
 ---> Escuchar en YouTube: 
 - .0 [Improvisación](https://youtu.be/FTpznoUGe58)
-- .1 [El fin del mundo](https://youtu.be/SdDkf0paJ8Y)
+- .1 [El fin del mundo]()
 
 --> [Descarga de todas las piezas y materiales](https://mega.nz/folder/iJcxhDCB#p-otYoc_gZaCDoDUtXZgtw) 
 
