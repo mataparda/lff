@@ -53,12 +53,13 @@ En estos 60 minutos (aprox.) de compartir ideas mi plan es el siguiente:
 
 - Una pieza ensamblada específicamente para Télex, titulada provisionalmente _Una noche_.
 
-:::- - - - - - 
+
 ---> Escuchar en YouTube: 
-- 0. [Improvisación](https://youtu.be/FTpznoUGe58)  - 1. [El fin del mundo](https://youtu.be/SdDkf0paJ8Y)
-:::- - - - - - 
+- 0. [Improvisación](https://youtu.be/FTpznoUGe58)
+- 1. [El fin del mundo](https://youtu.be/SdDkf0paJ8Y)
+
 --> [Descarga de todas las piezas y materiales](https://mega.nz/folder/iJcxhDCB#p-otYoc_gZaCDoDUtXZgtw) 
-:::- - - - - - 
+
 ![Set Télex](assets/img/audiosettelex.jpg)
 
 ---
