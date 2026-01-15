@@ -43,3 +43,7 @@ Una compilación que explora la faceta ambiental de la música electrónica espa
 
 
 ---
+
+Alternativamente a YouTube puedes descargar todos los videoclips en este enlace: [Mtp videoclips](https://drive.google.com/drive/folders/10X4uKijRDhZbMXQp_qceC4dIE2EaymuU?usp=sharing)
+
+---
