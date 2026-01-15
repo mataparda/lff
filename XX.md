@@ -79,6 +79,6 @@ Selección:
   
 ---
 
-Alternativamente a YouTube puedes descargar todos los videoclips en este enlace: (Mtp videoclips)[https://drive.google.com/drive/folders/10X4uKijRDhZbMXQp_qceC4dIE2EaymuU?usp=sharing]
+Alternativamente a YouTube puedes descargar todos los videoclips en este enlace: [Mtp videoclips](https://drive.google.com/drive/folders/10X4uKijRDhZbMXQp_qceC4dIE2EaymuU?usp=sharing)
 
 ---
