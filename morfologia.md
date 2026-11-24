@@ -21,7 +21,9 @@ Terminando el trabajo _Mi viaje con L_, revisiones tras revisiones, quedaron sob
 
 >El viaje deja residuos, un cajón de fotografías inperfectas dentro de la imperfección, pobres imágenes del abandono.
 >Encuentro una narración que recorre los restos de la narración y me leo a mí mismo un cuento, que me ayuda a explicar sentimientos inexplicables.
+
 >El cuento 
+
 >Si acepto una lectura patrimonial, entonces la propongo como una pregunta múltiple y focalizada en esta isla en concreto (Tenerife) acerca de los guanches: ¿Qué cuentos (perdidos irremediablemente) trajeron esos primeros grupos humanos a esta isla, cómo los contaban, cómo cambiaron, cómo integraron la destrucción de su mundo? 
 > - Texto de 2019.
 
